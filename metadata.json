@@ -1,0 +1,6 @@
+{
+  "name": "Outlook Multi-Mailbox Reader",
+  "description": "Multi-account Outlook and Microsoft Graph email reader with support for email:pass:client_id:refresh_token authentication, live mailbox sync, OTP extractor, and unified inbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
